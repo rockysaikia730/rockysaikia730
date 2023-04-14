@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project.
 - 📫 How to reach me: rockysaikia730@gmail.com
 - ⚡ Fun fact: I love math and physics
+
 <p>&nbsp;</p>
 
 <span>&nbsp;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaikia730&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
