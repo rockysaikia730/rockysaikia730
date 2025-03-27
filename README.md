@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Python, C++, HTML , JS.
+- 🌱 I’m proficient in Python, C++, HTML , JS.
 - 👯 I’m looking to collaborate on any project.
 - 📫 How to reach me: rockysaikia730@gmail.com
 - ⚡ Fun fact: I love math and physics
