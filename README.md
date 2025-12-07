@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love math and physics
 <p>&nbsp;</p>
 
-<span>&nbsp;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaikia730&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<span>&nbsp;</span>[![Top Langs](https://stats.dooboo.io/api/top-langs?username=rockysaikia730)](https://github.com/anuraghazra/github-readme-stats)
+
 
