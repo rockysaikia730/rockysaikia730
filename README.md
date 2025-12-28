@@ -13,6 +13,7 @@
 [![Mail](https://img.shields.io/badge/-Email-blue)](mailto:ahmed.saikia@epfl.ch)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rockey-saikia-333113180/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/rockysaikia730)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Or2Bmj8AAAAJ&hl=en)
 
 
 ## 🔨 Few of my projects!
