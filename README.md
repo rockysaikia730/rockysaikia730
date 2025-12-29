@@ -3,7 +3,7 @@
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne
 * 👨‍💻 DAAD-WISE Fellow at Technical University of Munich
 * 🎓 B.Tech in Engineering Physics at Indian Institute of Technology, Roorkee 
-* 💻 Machine Learning, Maths & Finance, Software Development are my interests
+* 💻 Machine Learning, Maths, Software Development are my interests
 * 🚞 I like hiking, football and food!
 
 
