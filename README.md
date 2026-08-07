@@ -1,6 +1,7 @@
 ## 👋 Hi there, I am A. Rockey Saikia (he/him)
 
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne
+* 👨‍💻 RSE Intern at IBM Research, Zurich
 * 👨‍💻 DAAD-WISE Fellow at Technical University of Munich
 * 🎓 B.Tech in Engineering Physics at Indian Institute of Technology, Roorkee 
 * 💻 Machine Learning, Maths, Software Development are my interests
